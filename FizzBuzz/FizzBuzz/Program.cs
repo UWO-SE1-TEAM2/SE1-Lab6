@@ -29,7 +29,7 @@ namespace FizzBuzz
                     Console.WriteLine(i);
                 }
             }
-            Console.Read();
+            //Console.Read();
         }
     }
 }
