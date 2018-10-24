@@ -8,6 +8,7 @@ namespace FizzBuzz
 {
     class Program
     {
+        //this is a comment
         static void Main(string[] args)
         {
             // I'm allergic to cats
