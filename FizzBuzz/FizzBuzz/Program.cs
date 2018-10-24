@@ -31,8 +31,6 @@ namespace FizzBuzz
                     Console.WriteLine(i);
                 }
             }
-            Console.Read();
-            // Added a comment
         }
     }
 }
